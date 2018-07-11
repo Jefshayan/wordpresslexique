@@ -1,0 +1,2 @@
+# wordpresslexique
+bdd lexique
